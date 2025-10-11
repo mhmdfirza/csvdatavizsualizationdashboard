@@ -92,6 +92,6 @@ optimized-csv-dashboard/
 
 ---
 
-### ✨ Dibuat dengan Streamlit dan Semangat Data oleh [Nama Kamu](https://github.com/mhmdfirza)
+### ✨ Dibuat dengan Streamlit dan Semangat Data oleh [MHMDFIRZA](https://github.com/mhmdfirza)
 
 ```
