@@ -1,7 +1,3 @@
-Berikut versi lengkap **README.md** untuk proyek **Optimized CSV Dashboard**, sudah diformat rapi dan siap dipakai di GitHub 👇
-
----
-
 ````markdown
 # 🧠 Optimized CSV Dashboard
 
