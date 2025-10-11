@@ -1,4 +1,3 @@
-````markdown
 # 🧠 Optimized CSV Dashboard
 
 **Optimized CSV Dashboard** adalah aplikasi web interaktif berbasis **Python Streamlit** untuk **menampilkan, menganalisis, dan memvisualisasikan data dari file CSV berukuran besar** secara efisien.  
@@ -26,7 +25,7 @@ Dashboard menampilkan ringkasan data otomatis seperti jumlah record, kolom, nila
 ---
 
 ## 🧩 Teknologi yang Digunakan
-
+````markdown
 | Komponen                | Deskripsi                             |
 | ----------------------- | ------------------------------------- |
 | **Python 3.9+**         | Bahasa pemrograman utama              |
@@ -36,7 +35,7 @@ Dashboard menampilkan ringkasan data otomatis seperti jumlah record, kolom, nila
 | **io / BytesIO**        | Untuk ekspor grafik menjadi file PNG  |
 
 ---
-
+````
 ## ⚙️ Instalasi & Menjalankan Aplikasi
 
 ### 1. Clone Repositori
@@ -44,7 +43,7 @@ Dashboard menampilkan ringkasan data otomatis seperti jumlah record, kolom, nila
 ```bash
 git clone https://github.com/username/optimized-csv-dashboard.git
 cd optimized-csv-dashboard
-```
+
 ````
 
 ### 2. Install Dependensi
@@ -71,7 +70,7 @@ streamlit run optimized_csv_dashboard.py
 
 ## 🧠 Arsitektur Proyek
 
-```
+````
 optimized-csv-dashboard/
 │
 ├── optimized_csv_dashboard.py     # File utama Streamlit
@@ -79,7 +78,7 @@ optimized-csv-dashboard/
 ├── README.md                      # Dokumentasi proyek
 └── sample_data.csv                # (opsional) Contoh dataset
 ```
-
+````
 ---
 
 ## 🧮 Manfaat Proyek
@@ -89,32 +88,10 @@ optimized-csv-dashboard/
 - ⚡ Dirancang agar tetap cepat meskipun file berukuran besar.
 - 💡 Dapat dikembangkan lebih lanjut untuk integrasi dengan database atau API.
 
----
 
-## 🧰 Contoh Hasil Visualisasi
-
-![Example Dashboard](https://via.placeholder.com/800x400?text=Dashboard+Preview)
 
 ---
 
-## 🤝 Kontribusi
+### ✨ Dibuat dengan Streamlit dan Semangat Data oleh [Nama Kamu](https://github.com/mhmdfirza)
 
-Kontribusi selalu terbuka!
-Jika kamu ingin menambahkan fitur atau meningkatkan performa, silakan fork repositori ini dan kirimkan pull request.
-
----
-
-## 🪪 Lisensi
-
-Proyek ini dilisensikan di bawah **MIT License** — bebas digunakan dan dimodifikasi untuk kebutuhan apa pun.
-
----
-
-### ✨ Dibuat dengan Streamlit dan Semangat Data oleh [Nama Kamu](https://github.com/username)
-
-```
-
----
-
-Apakah kamu ingin aku bantu tambahkan juga file `requirements.txt` untuk mendukung README ini (biar saat install dependencies tinggal `pip install -r requirements.txt`)?
 ```
