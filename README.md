@@ -32,9 +32,7 @@ Dashboard menampilkan ringkasan data otomatis seperti jumlah record, kolom, nila
 | **Streamlit**           | Framework web interaktif untuk Python |
 | **Pandas**              | Analisis dan manipulasi data          |
 | **Matplotlib / Plotly** | Visualisasi data interaktif           |
-| **io / BytesIO**        | Untuk ekspor grafik menjadi file PNG  |
 
----
 ````
 ## ⚙️ Instalasi & Menjalankan Aplikasi
 
@@ -77,7 +75,6 @@ optimized-csv-dashboard/
 ├── requirements.txt               # (opsional) Daftar dependensi
 ├── README.md                      # Dokumentasi proyek
 └── sample_data.csv                # (opsional) Contoh dataset
-```
 ````
 ---
 
@@ -89,9 +86,8 @@ optimized-csv-dashboard/
 - 💡 Dapat dikembangkan lebih lanjut untuk integrasi dengan database atau API.
 
 
-
 ---
 
-### ✨ Dibuat dengan Streamlit dan Semangat Data oleh [MHMDFIRZA](https://github.com/mhmdfirza)
+### ✨ Dibuat dengan Streamlit oleh [MHMDFIRZA](https://github.com/mhmdfirza)
 
 ```
