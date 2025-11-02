@@ -55,7 +55,7 @@ pip install streamlit pandas matplotlib plotly
 ### 3. Jalankan Aplikasi
 
 ```bash
-streamlit run optimized_csv_dashboard.py
+streamlit run app.py
 ```
 
 ### 4. Gunakan Dashboard
@@ -89,5 +89,3 @@ optimized-csv-dashboard/
 ---
 
 ### ✨ Dibuat dengan Streamlit oleh [MHMDFIRZA](https://github.com/mhmdfirza)
-
-```
