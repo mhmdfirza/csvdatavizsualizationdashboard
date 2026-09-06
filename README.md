@@ -1,6 +1,6 @@
-# 🧠 Optimized CSV Dashboard
+# CSV Data Viualization Dashboard
 
-**Optimized CSV Dashboard** adalah aplikasi web interaktif berbasis **Python Streamlit** untuk **menampilkan, menganalisis, dan memvisualisasikan data dari file CSV berukuran besar** secara efisien.  
+**CSV Data Visualization Dashboard** adalah aplikasi web interaktif berbasis **Python Streamlit** yang bertujuan untuk memudahkan data analyst dalam **menampilkan, menganalisis, dan memvisualisasikan data dari file CSV** secara efisien.  
 Aplikasi ini dirancang agar tetap **cepat, responsif, dan fleksibel**, bahkan saat menangani dataset dengan ukuran ratusan ribu baris.
 
 ---
@@ -36,35 +36,7 @@ Dashboard menampilkan ringkasan data otomatis seperti jumlah record, kolom, nila
 ````
 ## ⚙️ Instalasi & Menjalankan Aplikasi
 
-### 1. Clone Repositori
-
-```bash
-git clone https://github.com/username/optimized-csv-dashboard.git
-cd optimized-csv-dashboard
-
-````
-
-### 2. Install Dependensi
-
-Pastikan sudah memiliki Python 3.9+ dan pip, lalu jalankan:
-
-```bash
-pip install streamlit pandas matplotlib plotly
-```
-
-### 3. Jalankan Aplikasi
-
-```bash
-streamlit run app.py
-```
-
-### 4. Gunakan Dashboard
-
-1. Upload file CSV besar Anda melalui halaman utama.
-2. Lihat ringkasan data dan pilih kolom yang ingin divisualisasikan.
-3. Jalankan visualisasi sesuai kebutuhan dan unduh hasilnya dalam bentuk `.png`.
-
----
+https://mhmdfirza-csvdatavizsualizationdashboard-app-gnkcue.streamlit.app/
 
 ## 🧠 Arsitektur Proyek
 
