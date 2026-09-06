@@ -4,15 +4,13 @@ pandas>=2.2.0
 numpy>=1.26.0
 
 # Visualization
-matplotlib>=3.8.0
 plotly>=5.20.0
-seaborn>=0.13.0
 
-# Export and image handling
+# Export and image handling (chart PNG export)
 kaleido>=0.2.1
 
-# Performance and optimization
+# Faster CSV parsing for large files (with automatic fallback)
 pyarrow>=15.0.0
 
-# Optional (recommended for better performance)
+# Optional: improves Streamlit's local dev auto-reload
 watchdog>=4.0.0
